@@ -1,6 +1,6 @@
 # Readme.md
 
-# Hi there! I'm Suhas Venkata
+<h1 align="center">Hi 👋, I'm Suhas Venkata</h1>
 
 ## ⚡️ About Me:
 I am Suhas Venkata, a sophomore enrolled at PES University, Bangalore, currently advancing through my third semester pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering (CSE).
