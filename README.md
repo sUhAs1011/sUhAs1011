@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suhas Venkata</h1>
 
 ## ⚡️ About Me:
-I'm a second-year student at PES University, Bangalore, progressing through my third semester studying for a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE).
+I'm a second-year student at PES University, Bangalore, progressing through my fourth semester studying for a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE).
 
 [![Years Badge](https://badges.pufler.dev/years/sUhAs1011)](https://badges.pufler.dev) 
 [![Repos Badge](https://badges.pufler.dev/repos/sUhAs1011)](https://badges.pufler.dev)
