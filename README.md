@@ -15,3 +15,5 @@ I'm a third-year student at PES University, Bangalore, progressing through my fi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sUhAs1011&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sUhAs1011&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sUhAs1011&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
