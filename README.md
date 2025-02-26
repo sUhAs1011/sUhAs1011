@@ -18,4 +18,11 @@ I'm a Junior at PES University, Bangalore, progressing through my sixth semester
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sUhAs1011&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sUhAs1011&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 Tech Stack:
+![image](https://github.com/user-attachments/assets/8eea464a-90b1-4fb6-9131-89c504da2b73)
+![image](https://github.com/user-attachments/assets/e9b16932-db90-4967-8839-0fd478424c0a)
+![image](https://github.com/user-attachments/assets/92c8d409-9d1e-4ab7-a4f4-7f272af19136)
+
+
+
 
