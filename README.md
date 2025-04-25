@@ -28,7 +28,7 @@ I'm a Junior at PES University, Bangalore, progressing through my sixth semester
 
 [![](https://visitcount.itsvg.in/api?id=sUhAs1011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 ---
 
 
