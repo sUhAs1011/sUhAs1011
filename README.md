@@ -21,10 +21,13 @@ I'm a Junior at PES University, Bangalore, progressing through my sixth semester
 ![](https://github-readme-stats.vercel.app/api?username=sUhAs1011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sUhAs1011&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sUhAs1011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://github.com/Pranavh-2004"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sUhAs1011&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"/></a>
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sUhAs1011&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
+
 
 
 # 💻 Tech Stack:
