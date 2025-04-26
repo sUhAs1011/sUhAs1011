@@ -24,6 +24,11 @@ I'm a Junior at PES University, Bangalore, progressing through my sixth semester
 
 <a href="https://github.com/Pranavh-2004"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sUhAs1011&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"/></a>
 
+<a href="https://github.com/Pranavh-2004">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sUhAs1011&theme=tokyonight" alt="Activity Graph"/>
+</a>
+
+
 <a href="https://github.com/Pranavh-2004"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sUhAs1011&theme=tokyonight" alt="Profile Summary"/></a>
 
 
