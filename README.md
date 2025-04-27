@@ -1,6 +1,7 @@
 # Readme.md
 
 ![image](https://github.com/user-attachments/assets/16d94f1a-6aba-4e75-ad3e-6f85e23f13d3)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
