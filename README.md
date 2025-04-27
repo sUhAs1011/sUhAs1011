@@ -1,6 +1,8 @@
+
 # Readme.md
 
 ![image](https://github.com/user-attachments/assets/16d94f1a-6aba-4e75-ad3e-6f85e23f13d3)
+
 
 
 
@@ -16,6 +18,7 @@ I'm a Junior at PES University, Bangalore, progressing through my sixth semester
 [![Years Badge](https://badges.pufler.dev/years/sUhAs1011)](https://badges.pufler.dev) 
 [![Repos Badge](https://badges.pufler.dev/repos/sUhAs1011)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sUhAs1011)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=sUhAs1011&label=Profile%20views&color=0e75b6&style=flat" alt="sUhAs1011">
 
 
 # 📊 GitHub Stats:
@@ -26,6 +29,8 @@ I'm a Junior at PES University, Bangalore, progressing through my sixth semester
 <a href="https://github.com/Pranavh-2004"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sUhAs1011&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"/></a>
 
 <a href="https://github.com/Pranavh-2004"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sUhAs1011&theme=tokyonight" alt="Profile Summary"/></a>
+
+
 
 
 ### 🔝 Top Contributed Repo
