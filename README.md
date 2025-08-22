@@ -8,7 +8,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## ⚡️ About Me:
-I'm a Senior at PES University, Bangalore, progressing through my seventh semester studying for a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE).
+I'm a Senior at PES University, Bangalore, progressing through my final year studying for a Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE).
 
 
 ## 📊 GitHub Stats:
