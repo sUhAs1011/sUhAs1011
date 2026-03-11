@@ -15,17 +15,6 @@ Final-year Computer Science student at PES University with a strong interest in 
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sUhAs1011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<a href="https://github.com/sUhAs1011">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sUhAs1011&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"/>
-</a>
-
-<a href="https://github.com/sUhAs1011">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sUhAs1011&theme=tokyonight"/>
-</a>
-
-## 🔝 Top Contributed Repo
 
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=sUhAs1011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
