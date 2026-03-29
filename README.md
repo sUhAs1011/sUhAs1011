@@ -13,6 +13,10 @@ Final-year Computer Science student at PES University with a strong interest in 
 ![](https://nirzak-streak-stats.vercel.app/?user=sUhAs1011&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sUhAs1011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=sUhAs1011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sUhAs1011&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sUhAs1011&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🔝 Top Contributed Repo
 
