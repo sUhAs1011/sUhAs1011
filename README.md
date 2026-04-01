@@ -24,7 +24,7 @@ Final-year Computer Science student at PES University with a strong interest in 
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/sUhAs1011/sUhAs1011/main/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/sUhAs1011/sUhAs1011/output/github-contribution-grid-snake.svg)
   
 </div>
 
