@@ -23,12 +23,12 @@ Final-year Computer Science student at PES University with a strong interest in 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sUhAs1011&theme=tokyonight)
 
 
-### Contribution
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/GSL006/GSL006/main/output/github-contribution-grid-snake.svg)
-  
-</div>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sUhAs1011/sUhAs1011/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sUhAs1011/sUhAs1011/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## 💻 Tech Stack:
