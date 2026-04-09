@@ -58,14 +58,6 @@ Final-year Computer Science student at PES University with a strong interest in 
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=GSL006&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&cache_seconds=86400)
-  
-</div>
-
----
-
-<div align="center">
-  
   ![Snake animation](https://raw.githubusercontent.com/GSL006/GSL006/main/output/github-contribution-grid-snake.svg)
   
 </div>
