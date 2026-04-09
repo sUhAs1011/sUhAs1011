@@ -33,16 +33,6 @@ Final-year Computer Science student at PES University with a strong interest in 
 
 
 
-
----
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GSL006&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSL006&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&exclude_repo=GSL006&cache_seconds=86400"/>
-  
-</div>
-
 <div align="center">
   
   ![Snake animation](https://raw.githubusercontent.com/GSL006/GSL006/main/output/github-contribution-grid-snake.svg)
