@@ -33,19 +33,6 @@ Final-year Computer Science student at PES University with a strong interest in 
 
 
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Gagan+SL;Backend+Developer+%7C+ML+Engineer;Blockchain+%26+Trading+Systems" alt="Typing SVG" />
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/GSL006?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF00)](https://github.com/GSL006)
-  [![GitHub stars](https://img.shields.io/github/stars/GSL006?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF00)](https://github.com/GSL006)
-  [![Profile Views](https://komarev.com/ghpvc/?username=GSL006&color=00FF00&style=for-the-badge&label=Profile+Views)](https://github.com/GSL006)
-  
-</div>
 
 ---
 
