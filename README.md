@@ -70,45 +70,6 @@ Final-year Computer Science student at PES University with a strong interest in 
   
 </div>
 
----
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🔹 Back-end Developer Intern**  
-*GoQuant | Mar 2025 – Present*  
-*Remote*
-
-Engineering low-latency trading systems for global exchanges (BitMEX, Binance, OKX). Building real-time OTC trading flows and high-performance WebSocket gateways.
-
-**🔹 Blockchain Developer Intern**  
-*AnythingAI | Dec 2024 – Mar 2025*  
-*Remote*
-
-Built automated trading systems and cryptocurrency trading bots (1000+ trades/day). Migrated data infrastructure from CSV/Sheets to PostgreSQL.
-
-</td>
-<td valign="top" width="50%">
-
-**🔹 AI/ML Research Intern**  
-*RAPID PES University | Jun 2024 – Aug 2024*  
-*On-Site*
-
-Designed news-aware stock prediction pipeline achieving **89% accuracy**. Applied LDA topic modeling on 100K+ news articles.
-
-**🔹 Teaching Assistant Head**  
-*PES University | Jul 2025 – Present*  
-*Hybrid*
-
-Designing real-world DSA projects and conducting hands-on coding sessions on BST and fundamental concepts.
-
-</td>
-</tr>
-</table>
-
----
-
 
 
 
