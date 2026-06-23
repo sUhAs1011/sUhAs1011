@@ -5,8 +5,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## ⚡️ About Me:
-Final-year Computer Science student at PES University with a strong interest in Machine Learning, Natural Language Processing, and applied AI. Previously interned at C3I, where I gained hands-on experience building and deploying ML systems. I enjoy solving real-world problems, exploring software engineering, and collaborating on impactful projects.
-
+Final-year Computer Science student at PES University and Software Engineering Intern at Epsilon. Passionate about Machine Learning, Natural Language Processing, Artificial Intelligence, and Software Engineering. Previously interned at C3I, where I worked on developing and deploying ML-driven solutions. Enthusiastic about building impactful technology, solving real-world problems, and continuously learning new skills.
 
 ## 📊 GitHub Stats:
 
